@@ -32,7 +32,7 @@ body {
 }
 
 header {
-    background-color:var(--primary-color) ;
+    background-color:var(--secondary-color) ;
 }
 nav a {
     text-align: center;
@@ -50,7 +50,7 @@ nav a:hover {
 }
 
 .book, .join {
-    background-color:var(--primary-color) ;
+    background-color:var(--accent1-color) ;
 }
 
 .book:hover, .join:hover {
@@ -65,9 +65,9 @@ main section {
 }
 
 .msg {
-    background-color:var(--primary-color) ;
+    background-color:var(--accent2-color) ;
 }
 
 footer {
-    background-color:var(--primary-color) ;
+    background-color:var(--secondary-color) ;
 }
